@@ -1,7 +1,7 @@
 # The Social Network API [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Description
-* This app utilizes MongoDB, Express.js, and Mongoose to serve as a back-end for a social network site. Through the app, users are able to connect with other users through a friend's list feature. Users are also able to create/view/update/delete `thoughts`(posts). When a single `thought`(post) is viewed, users can reply to them through `responses`. Through Mongoose, this app can be improved efficiently to offer more features in the future. 
+* This app utilizes MongoDB, Express.js, and Mongoose to serve as a back-end for a social network site. Through the app, users are able to connect with other users through a friend's list feature. Users are also able to create/view/update/delete `thoughts`(posts). When a single `thought`(post) is viewed, users can reply to them through `responses`. Through Mongoose, this app can be improved upon efficiently to offer more features in the future. 
 
 ## Table of Contents
 1. [Description](#description)
