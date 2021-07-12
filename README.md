@@ -19,11 +19,11 @@ JavaScript | Node.js | Express.js | MongoDB | Mongoose
 ```
 
 ## Installation
-1. Clone the repo locally
+1. Clone the repo locally.
 ```
   $ git clone <SSH Link>
 ```
-2. Install the npm packages at root of application
+2. Install the npm packages at root of application.
 ```
   $ npm install
 ```
@@ -34,7 +34,7 @@ JavaScript | Node.js | Express.js | MongoDB | Mongoose
   $ npm start
 ```
 2. From here, you can begin using/testing the API routes. Insomnia Core is the recommended application to do so. 
-3. Watch the Walkthrough Video below for a thorough usage guide
+3. Watch the Walkthrough Video below for a thorough usage guide.
 
 ## Walkthrough Video
 * [Video Link](https://drive.google.com/file/d/1lb4U-Fw9Cu5cVj0HVDa32VRBQVxAVXUJ/view)
