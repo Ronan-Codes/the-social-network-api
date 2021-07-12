@@ -2,7 +2,7 @@ const { User } = require('../models');
 
 const userController = {
     // GET all users
-    getAllUsers(req, res) {
+    getAllUsers({}, res) {
         User.find({})
         .select('-__v')
         .sort({ _id: -1 })
@@ -42,6 +42,7 @@ const userController = {
             });
     },
 
+    // CREATE User
     createUser({ body }, res) {
         User.create(body)
             .then(dbUserData => res.json(dbUserData))
